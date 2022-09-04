@@ -1,6 +1,3 @@
-# FunctionalOptionsPattern
-Implementing the Options Pattern in Golang(by 3 approach)
-
 # Functional Options Pattern in Golang
 Implementing the Options Pattern in Golang(by 3 approach)
 
